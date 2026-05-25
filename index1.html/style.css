@@ -1,0 +1,20 @@
+body{
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(57, 232, 200);
+    padding: 10px;
+}
+
+nav a{
+    color: rgb(21, 21, 22);
+    text-decoration: none;
+    margin: 10px;
+}
+
+h1,h2,p{
+    color: black;
+}
